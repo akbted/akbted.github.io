@@ -1,4 +1,4 @@
-# Anantha Krishna B
+# AKB.TED
 **AI/ML Engineer · Bengaluru, India**
 
 Tech enthusiast with a love for problem-solving and innovation. I build intelligent systems — from agentic AI pipelines and multi-modal vision models to RAG architectures and real-time voice agents — with a focus on making technology practical, reliable, and impactful.
